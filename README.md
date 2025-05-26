@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋🏻 Hi, I'm José Miguel Muñoz Velasco</h1>
+  <h1>👋🏻 Hi, I'm Miguel Muñoz</h1>
   <p>👨‍💻 Software Developer | 💡 Lifelong Learner | 🌟 Tech Enthusiast</p>
 </div>
 
